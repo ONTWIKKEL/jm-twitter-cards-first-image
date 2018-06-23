@@ -4,12 +4,12 @@ Plugin Name: JM Twitter Cards First image
 Plugin URI: https://dev73.tweetpress.fr
 Description: Meant to grab first image of post content as twitter card image. Requires JM Twitter Cards
 Author: Julien Maury
-Author URI: https://tweetpress.fr
+Author URI: https://julien-maury.com
 Version: 1.0
 License: GPL2++
 
 JM Twitter Cards Plugin
-Copyright (C) 2016, Julien Maury - contact@tweetpress.fr
+Copyright (C) 2016, Julien Maury - contact@julien-maury.com
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: JM Twitter Cards First image
-Plugin URI: https://julien-maury.com
+Plugin URI: https://julien-maury.dev
 Description: Meant to grab first image of post content as twitter card image. Requires JM Twitter Cards
 Author: Julien Maury
-Author URI: https://julien-maury.com
+Author URI: https://julien-maury.dev
 Version: 1.0
 License: GPL2++
 
